@@ -1,3 +1,3 @@
 # An implementation of ENIGMA machine
 
-!(schema.png)
+![](schema.png)
